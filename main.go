@@ -1,6 +1,5 @@
 package main
 
-<<<<<<< HEAD
 import (
 	"fmt"
 	"image/color"
@@ -370,12 +369,4 @@ func resetGame() { // Сбрасывает игру
 	currentPlayer = 1
 	gameOver = false
 	winner = 0
-=======
-import(
-	"fmt"
-)
-
-func main(){
-	fmt.Println("Hello world")
->>>>>>> da8ed2f2c470cef728aa3a812a8a78b2296ae78b
 }
